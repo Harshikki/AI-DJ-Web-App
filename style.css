@@ -1,0 +1,49 @@
+.div_speed{
+float:left;
+}
+
+.div_speed img{
+    width: 150px;
+    border-radius: 100px;
+}
+
+.div_volume{
+    float: right;
+    margin-right: 30px;
+}
+
+.div_volume img{
+    width: 150px;
+    border-radius: 100px;
+}
+
+.heading{
+    width: 100%;
+    font-size: 18px;
+}
+
+.note{
+    color: red;
+}
+
+.play_button{
+    width: 100px;
+    font-size: 20px;
+    margin-top: 450px;
+}
+
+#speed, #volume{
+    width: 160px;
+    font-size: 20px;
+}
+
+body{
+    background-size:cover;
+}
+
+canvas { 
+    border:5px solid white; 
+    border-radius:20px; 
+    height: 400;
+    width: 400;
+}
